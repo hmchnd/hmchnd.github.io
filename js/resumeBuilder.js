@@ -85,17 +85,17 @@ var work = {
 var projects = {
     projects: [{
         title: 'Front-End Nanodegree Project 1: Build a Portfolio',
-        dates: '04/18/2015 - 04/22/2015',
+        dates: '17/10/2020',
         description: 'Replicate a design mockup in a responsive website using HTML5 and CSS3.',
-        url: 'https://github.com/icsantos/FEND-build-a-portfolio',
+        url: 'https://github.com/hmchnd/hmchnd.github.io',
         images: [
            // 'images/fend1_laptop.jpg'
         ]
     }, {
-        title: 'Front-End Nanodegree Project 2: Online Resume',
-        dates: '05/07/2015 - present',
+        title: 'Various Android Apps',
+        dates: '07/2020 - present',
         description: 'Demonstrate mastery of JavaScript and jQuery to design an online resume.',
-        url: 'https://github.com/icsantos/frontend-nanodegree-resume',
+        url: 'https://github.com/hmchnd',
         images: [
           //  'images/fend2_laptop.jpg'
         ]
